@@ -1,4 +1,3 @@
-# ds_api
 ## Mac OS
 Clone files and change directory
 ```
