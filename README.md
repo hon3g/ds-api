@@ -22,7 +22,7 @@ Returns <br/>
 ```
 {
   "player_id": 1,
-  "username": 'hong',
+  "username": "hong",
   "xp": 0,
   "gold": 0
 }
